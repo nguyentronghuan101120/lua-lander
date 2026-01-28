@@ -1,0 +1,19 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# IDE
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.userprefs
+
+# OS
+.DS_Store
