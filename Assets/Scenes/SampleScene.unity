@@ -345,8 +345,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0c786ae433554cc9bc3b607fae23777, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  thrustPower: 100
-  rotationSpeed: 10
+  thrustPower: 20
+  rotationSpeed: 2
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
